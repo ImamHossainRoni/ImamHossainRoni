@@ -1,23 +1,5 @@
 <h1 align="center">Hi there! I'm Imam Hossain Roni 👋</h1>
 
-<p align="center">
-  <a href="mailto:imamhossainroni95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me-blue?style=flat&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/imamhossainroni/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin">
-  </a>
-<a href="https://stackoverflow.com/users/6342245/imam-hossain-roni">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-ask%20me-orange?style=flat&logo=stackoverflow">
-  </a>
-  <a href="https://twitter.com/_imamhossain">
-    <img src="https://img.shields.io/badge/Twitter-follow-blue?style=flat&logo=twitter">
-  </a>
-  <a href="https://www.xing.com/profile/MdImamHossain_Roni/cv">
-    <img src="https://img.shields.io/badge/Xing-connect-lightgrey?style=flat&logo=xing">
-  </a>
-</p>
-
 <p align="center">👨‍💻 Software Engineer from Dhaka, Bangladesh 🌏</p>
 
 <h3 align="center">About Me</h3>
@@ -63,5 +45,17 @@
 <p align="center">
   <a href="mailto:imamhossainroni95@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-blue?style=flat&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/imamhossainroni/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin">
+  </a>
+<a href="https://stackoverflow.com/users/6342245/imam-hossain-roni">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-ask%20me-orange?style=flat&logo=stackoverflow">
+  </a>
+  <a href="https://twitter.com/_imamhossain">
+    <img src="https://img.shields.io/badge/Twitter-follow-blue?style=flat&logo=twitter">
+  </a>
+  <a href="https://www.xing.com/profile/MdImamHossain_Roni/cv">
+    <img src="https://img.shields.io/badge/Xing-connect-lightgrey?style=flat&logo=xing">
   </a>
 </p>
