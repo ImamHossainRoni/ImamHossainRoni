@@ -12,7 +12,7 @@
   <ul>
     <li>✨ Writing at <a href="https://imamhossainroni.me/">Abstract Thoughts</a> 🤔</li>
     <li>🐛 Fixing bugs and optimizing code for peak performance 😄</li>
-    <li>🏢 Currently working remotely as a Software Engineer</li>
+    <li>🏢 Currently working remotely as a Software Engineer 👨‍💻 </li>
     <li>🌱 Passionately learning and contributing to Open Source projects</li>
     <li>⚙️ Utilizing a versatile tech stack, including:</li>
   <p>
